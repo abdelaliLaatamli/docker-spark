@@ -17,3 +17,6 @@ docker-compose up -d --scale worker=3
 ```
 
 
+inspired from [docker-spark](https://hub.docker.com/r/p7hb/docker-spark) and [docker-spark-standalone](https://github.com/Ouwen/docker-spark-standalone/tree/master)
+
+
